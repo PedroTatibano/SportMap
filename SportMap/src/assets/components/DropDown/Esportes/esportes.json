@@ -1,0 +1,11 @@
+{
+    "Esportes": [
+      { "esporte": "Visualizar esportes" },
+      { "esporte": "Futebol" },
+      { "esporte": "Vôlei" },
+      { "esporte": "Basquete" },
+      { "esporte": "Handebol" },
+      { "esporte": "Tênis" }
+    ]
+  }
+  
