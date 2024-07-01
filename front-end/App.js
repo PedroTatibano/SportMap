@@ -4,7 +4,7 @@ import { ActivityIndicator, View } from 'react-native';
 import { Inter_400Regular, Inter_600SemiBold } from '@expo-google-fonts/inter';
 import React, { useEffect, useState } from 'react';
 
-import AppRoutes from './src/routes/app-routes';
+import AppRoutes from  './src/routes/app-routes';
 import { Lato_400Regular } from '@expo-google-fonts/lato';
 
 const App = () => {
